@@ -1,0 +1,565 @@
+/* css by Jatin*/
+
+/* .btn-group{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-group .btn {
+    width: 100%;
+}
+
+.btn-group .btn-primary {
+    color: var(--White);
+    background-color: var(--Prime100);
+    border-color: var(--Prime100);
+}
+
+.btn-group .btn-primary:hover {
+    background-color: #5a6268;
+    border-color: #5a6268;
+}
+
+.btn-group .btn-outline-secondary:hover {
+    color: unset;
+    background-color: unset;
+}
+
+.btn-group .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    background-color: var(--Prime100);
+    border-color: var(--Prime100);
+} */
+
+.option_description{
+    padding: 30px 0 10px 0;
+}
+
+.tabs_list .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+.breadcrumb_head{
+    padding: 10px;
+}
+
+.btn-lg .fa-solid{
+    display: contents;
+}
+.whatsapp-btn {
+    color: var(--White);
+    background-color: #25D366;
+    border-color: #25D366;
+    width: 100%;
+  }
+
+.batchStart{
+    padding: 12px 0 0;
+}
+
+.course_list_title {   
+    padding: 0px 0px 8px; 
+}
+.btn_group{
+    display: flex;
+    gap: 10px;
+}
+
+.all-course-wrapper{
+    padding: 10px;
+}
+
+.optional_classes_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.breadcrumb_bg{
+    background-color: var(--White);
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: var(--Prime100);
+    content: ">";   
+}
+.gs-analyst{
+    padding: 0px 0 30px 0; 
+}
+
+/* css by Jatin ends here */
+.breadcrumb_head .aboutmockTest ul {
+    list-style: none;
+    padding: 0;
+}
+.breadcrumb_head .aboutmockTest ul li {
+    display: inline-block;
+    font-size: 14px;
+    border-right: 1px solid #bfbfbf;
+    padding: 0 8px;
+}
+.breadcrumb_head .aboutmockTest ul li:last-child {
+    border-right: none;
+}
+
+.enviroment_banner{
+    padding: 0 65px;
+}
+.paper_Pdf{
+    padding: 40px 90px;
+}
+.paperDwld{
+    padding: 0 20px 40px ;
+}
+.paperDwldCard{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+.preYearPaper{
+    background-color: var(--black1);
+    padding: 40px 0;
+
+}
+.preYearHeading{
+    color : var(--success100);
+    /* padding: 0 0 20px; */
+}
+.wapperPreYearPaper{
+    padding: 40px 150px;
+}
+.btn_preYearPaperBtn{
+    padding: 12px 28px;
+    margin: 20px 20px 0 0;
+    background-color: var(--success10);
+}
+.upscExamServices{
+    background-color: var(--White);
+    padding: 40px 0;
+}
+.upscExamServicesTag{
+    padding: 12px;
+}
+.preYearPaperpadd{
+    padding: 0 70px;
+    text-align: center;
+}
+
+/* sampoorna.html start */
+
+.sampoornaPrelims{
+    background-color: var(--warning10);
+}
+.sampoornaPrelimsDiv{
+    padding: 52px 90px;
+}
+
+
+
+.latest-updates-card-body {
+    /* height: 430px; */
+    height: 374px;
+}
+
+.scrollHeadingCard{
+    border-radius: 5px 5px 0px 0px;
+    padding: 12px 20px;    
+    font-size: 16px;   
+    color: var(--White);
+    background-color: var(--ter1);
+    margin: 0;
+}
+
+.table-data-prelims {
+    scrollbar-width: thin;  
+   
+}
+.table-data-prelims {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 0px;
+    height: inherit;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-color: #fff;
+}
+.iconFreeDwld{
+    width: 60px;
+    height: 60px;
+}
+.wrapperfreeDwld{
+    display: flex;
+    gap: 8px;
+}
+.enviroHeading{
+    padding: 0px 0 12px;
+}
+.freeDwldBtn{
+    border-radius: 37px;
+    color: var(--warning100);   
+    border-color:var(--warning100);   
+}
+.freeDwldBtn:hover{   
+    color: var(--black2);   
+    background-color:var(--warning100);   
+}
+.cardFreeResource{
+    padding: 16px;
+}
+.cardFreeResourceTitle{
+    padding: 16px 0 4px;
+}
+.cardFreeResourceImg{
+    width: 100%;
+    height: 351px;
+}
+.freeDwldPadd{
+    padding: 4px 0 0;   
+}
+.startTestForUser{
+    text-align: center;
+    background: var(--success10);
+    padding: 8px 24px
+}
+.startTestTag, .startTestTag:hover{
+    color: var(--Link);
+}
+
+.wrapperfreeDwld{
+    padding: 4px 8px;
+}
+.wrapperArrowIcon{
+    display: flex;
+    align-items: center;
+}
+
+.arrowIconDesign{
+    color: var(--black6) !important;   
+    background-color: var(--White);   
+    padding: 7px 14px;  
+    border: 1px solid var(--black6) !important; 
+    border-radius: 5px;
+}
+
+.viewAllTag,.viewAllTag:hover{
+    color: var(--success100);  
+}
+
+
+.wrapperviewAllTag{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    /* background: red; */
+}
+.titleOfDwldPdf,.titleOfDwldPdf:hover{
+    color: var(--zblack);
+}
+
+.sampoornaBanners{
+    padding: 74px 90px 40px;
+}
+.sampoornaBanners .carousel_banner{
+    position: relative;
+}
+.sampoornaBanners .owl-nav{
+    position: absolute;
+    right: 0;
+    bottom: 8px;   
+    color: var(--White) !important;
+}
+
+.sampoornaBanners .owl-prev,.sampoornaBanners .owl-next{
+    background: var(--Prime100) !important;  
+    width: 24px;
+    height: 24px;
+}
+.sampoornaBanners .owl-prev:focus-visible,.sampoornaBanners
+.owl-prev:focus {
+    outline:unset;
+}
+.sampoornaBanners .owl-next:focus-visible,.sampoornaBanners
+.owl-next:focus {
+    outline:unset;
+}
+
+/* sampoorna.html end */
+
+/* prelimsOpenMockTestSeries.html start */
+.allIndianMockPrelims{
+    background-color: var(--White);   
+}
+.allIndianMock{
+    padding: 40px 90px;
+}
+.allIndianMockPrelimsHeading{
+    padding: 0 0 12px;
+    text-align: center;
+}
+.WrapperMockCard{
+    display: flex;
+    align-items: center;
+    gap:8px;
+}
+.mockCard{
+    padding: 12px;
+}
+.wrapperMockTestTime{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.MockTestTime{
+    padding: 12px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.MockTestTimeDetails{
+    color: var(--black4);
+}
+.mocKTestBtn{
+    background-color: var(--Prime100);
+    color: var(--White);
+    width: 100%;
+}
+.mocKAnalysisBtn{
+    background-color: var(--Sec100);
+    border-color: var(--Sec100);
+    color: var(--White);
+    width: 100%;  
+}
+.TestCardMock{
+    padding: 40px 0;
+}
+
+.MockTestTimeWrapper {
+    padding: 12px;  
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: space-between;    
+}
+
+.institute_logo{
+    width: 60px;
+    height: 60px;
+}
+.wrapperContact{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap:4px;
+}
+
+.wrapperStateBtn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* gap: 4px; */
+    padding: 14px 0;
+}
+
+.stateTag {
+    border-radius: 37px;
+    color: var(--Sec100);
+    border-color: var(--Sec100);
+    background-color: var(--Sec100);
+    width: 100px;
+    height: 26px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 4px 12px
+}
+.TagStateName{
+    text-align: center;
+    width: 100%;
+}
+.Contact_person{
+    padding: 12px 0;
+    color: var(--black4);
+}
+.stateTitle{
+    padding: 4px 0;
+}
+.openMockTest{
+    background-color: var(--warning10);
+}
+.offlineMockTest{
+    background-color: var(--White);
+}
+.unpredictable{
+    background-color: var(--Sec10);
+}
+.cotactColor{
+    color: var(--ter1);
+}
+.outlineMocKAnalysisBtn{    
+    border-color: var(--Sec100);
+    color: var(--Sec100);
+    width: 100%;    
+}
+.outlineMocKAnalysisBtn:hover{
+    background-color: var(--Sec100);
+    border-color: var(--Sec100);
+    color: var(--White);      
+}
+.parentClassOfAnsWriting ul {
+    list-style: none;
+    padding: 0;
+}
+.parentClassOfAnsWriting ul li {
+    display: inline-block;
+    font-size: 14px;
+    border-right: 1px solid #bfbfbf;
+    padding: 0 8px;
+}
+.parentClassOfAnsWriting ul li:last-child {
+    border-right: none;
+}
+
+
+/* prelimsOpenMockTestSeries.html end */
+
+/* answerWriting.html start */
+.tabsAnswerWriting{
+    padding: 52px 0;
+}
+
+.tabNavLink {
+    background-color: var(--White) !important;
+    border-color: var(--White) !important;
+    color: var(--Prime100) !important;
+}
+.tabNavLink.active {
+    background-color: var(--White) !important;
+    border-color: var(--White) !important;
+    border-bottom: solid 2px var(--Prime100) !important;
+    border-radius: 0;
+}
+.tabs_list ul{
+    list-style: none;
+    padding: 0;
+}
+.tabs_list ul li{   
+    display: inline-block;
+    font-size: 14px;   
+    padding: 0 8px;
+}
+.eachEssential {
+    padding: 8px 17px
+}
+.essential_row{
+    padding: 28px 0 0;
+}
+.tabs_list {
+    overflow-x: auto;  
+    white-space: nowrap; 
+    background-color: var(--White);
+    /* padding: 4px 60px 4px; */
+    padding: 0;
+    height: 56px;
+}
+.tabs_list ul {
+    display: flex; 
+    flex-wrap: nowrap; 
+}
+.tabs_list li {
+    flex: 0 0 auto; 
+    margin-right: 10px; 
+}
+.tabs_list a {
+    display: inline-block; 
+    padding: 10px 15px; 
+}
+.answerWritingDesc{
+    padding: 42px 0 28px
+}
+.answerWritedateTime{
+    display: flex;
+    justify-content: space-between;
+}
+.answerWritedateTime .Timing{
+    color: var(--warning100);
+}
+.parentClassOfAnsWriting{
+    padding: 12px;
+}
+.IntelligenceAnsWrite{
+    padding: 8px 0;
+}
+.IntelligenceAnsWriting{
+    padding: 0 0 8px;
+}
+.partision{
+    padding-top: 2px;
+    background-color: var(--black6);
+}
+
+/* answerWriting.html end */
+
+
+/* event_activity.html start */
+.aboutEventActivity{
+    padding: 20px 0 0 ;
+}
+.descAboutEventActivity{
+    padding: 20px;
+    border: 2px solid var(--Sec100);
+    border-radius: 4px
+}
+.activityEventBtn{
+    display: flex;
+    gap: 16px
+}
+/* event_activity.html end */
+
+
+@media screen and (max-width: 992px) {
+
+    .prime100-outline-border-btn{
+        border: 1px solid !important;
+    }
+
+    .allIndianMockPrelimsHeading{
+        text-align: start;
+    }
+
+    .allIndianMock {
+        padding: 0;
+    }
+
+    .sampoornaBanners{
+        padding: 20px 0px 20px;
+    }
+
+    .sampoornaPrelimsDiv{
+        padding: 20px 0
+    }
+    .container-ias{       
+        padding: 0 20px !important;       
+    }
+    .paper_Pdf {
+        padding: 20px 0;
+    }
+    .paperDwldCard {
+        display: block;
+    }
+    .paperDwldEasyPaper{
+        padding: 4px 0;
+    }
+    .btn_preYearPaperBtn {
+        padding: 8px 12px;
+        margin: 12px 16px 0 0;       
+    }
+    .preYearPaperpadd {
+        padding: 0;       
+    }
+}
